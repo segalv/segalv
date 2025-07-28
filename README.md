@@ -1,7 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
 
----
-
 ### I'm Ana Clara Segal :)
 
 📍 São Paulo, Brazil  
