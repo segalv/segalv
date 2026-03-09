@@ -19,7 +19,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=segalv&show_icons=true&theme=default" alt="Ana's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=segalv&show_icons=true&theme=default" alt="Ana's GitHub Stats" />
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=segalv&layout=compact&theme=default" alt="Top Languages" />-->
 </p>
 
